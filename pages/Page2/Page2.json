@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 840,
+          "bottomRow": 420,
           "containerStyle": "none",
           "snapRows": 83,
           "parentRowSpace": 1,
@@ -26,6 +26,7 @@
           "leftColumn": 0
         },
         "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page2",
         "deleted": false,
