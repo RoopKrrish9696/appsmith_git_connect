@@ -99,7 +99,8 @@
     ],
     "dynamicPropertyPathList": [
         {"key": "primaryColumns.EditActions1.isSaveDisabled"},
-        {"key": "primaryColumns.EditActions1.isDiscardDisabled"}
+        {"key": "primaryColumns.EditActions1.isDiscardDisabled"},
+        {"key": "tableData"}
     ],
     "displayName": "Table",
     "bottomRow": 47,
@@ -579,7 +580,7 @@
     "widgetId": "uuzd22o368",
     "allowAddNewRow": true,
     "minWidth": 450,
-    "tableData": "{{Select_public_users1.data}}",
+    "tableData": "{{Select_pub\nic_users1.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",
