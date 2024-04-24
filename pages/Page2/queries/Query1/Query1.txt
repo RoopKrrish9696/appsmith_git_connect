@@ -1,1 +1,1 @@
-SELECT * FROM public."agent" LIMT 10;
+SELECT * FROM public."aget" LIMT 10;
