@@ -19,7 +19,11 @@
   },
   "color": "#CCCCCC",
   "icon": "love",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

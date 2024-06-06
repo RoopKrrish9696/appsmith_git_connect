@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 970,
+          "bottomRow": 1290,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -27,22 +27,6 @@
           "leftColumn": 0
         },
         "layoutOnLoadActions": [
-          [
-            {
-              "id": "Page1_Select_public_users1",
-              "name": "Select_public_users1",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "Table1.searchText",
-                "Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\"",
-                "Table1.sortOrder.column || 'id'",
-                "Table1.pageSize",
-                "Table1.pageOffset"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
           [
             {
               "id": "Page1_Total_record_public_users1",
