@@ -4,7 +4,7 @@ export default {
 	myFun1 () {
 
 		const a =10;
-		console.log('hello');
+		console.log('helloop');
 	},
 	async myFun2 () {
 		//	use async-await or promises
