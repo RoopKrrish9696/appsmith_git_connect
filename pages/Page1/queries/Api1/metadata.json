@@ -2,7 +2,7 @@
   "pluginType": "SS",
   "pluginId": "google-sheets-plugin",
   "unpublishedAction": {
-    "name": "Api1",
+    "name": "df",
     "datasource": {
       "name": "Course Earnings",
       "pluginId": "google-sheets-plugin",
