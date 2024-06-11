@@ -1,5 +1,5 @@
 {
-  "pluginType": "SAAS",
+  "pluginType": "SS",
   "pluginId": "google-sheets-plugin",
   "unpublishedAction": {
     "name": "Api1",
