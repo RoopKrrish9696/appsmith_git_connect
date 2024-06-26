@@ -4,10 +4,11 @@ export default {
 	myFun1 () {
 
 		const a =10;
-		console.log('helloopasfdsfdsfsdsfsdfdfd');
+		console.log('helloopasfdsfdsfsds2312311213fsdfdfd');
 	},
 	async myFun2 () {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 	}
 }
+rt
