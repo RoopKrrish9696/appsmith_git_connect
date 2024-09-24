@@ -4,7 +4,7 @@ export default {
 	myFun1 () {
 
 		const a =10;
-		console.log('helloopasfdsfdsfsds2312311213fsdfdfd');
+		console.log('helopdfd');
 	},
 	async myFun2 () {
 		//	use async-await or promises
